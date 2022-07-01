@@ -345,6 +345,9 @@ footer {
 .col2 p  {
    display: none;
 }
+.line3 {
+    display: none;
+}
 
   @media  screen and (max-width:768px) {
     .nav-list-items {
@@ -734,6 +737,9 @@ left: 5%;
         border-bottom: 2px solid #fff;
         position: relative;
         padding-bottom: 10px;
+      }
+      .line3 {
+        display: block;
       }
   }
   
